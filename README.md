@@ -4,7 +4,26 @@ The SIAM Activity Group on Computational Science and Engineering (SIAG/CSE) fost
 
 ### 2018 Report: Research and Education in Computational Science and Engineering (SIAM Review 60(3), 707–754, 2018; [download PDF](/assets/2018_Report.pdf)
 
-### Research and Education in Computational Science and Engineering
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-Authors: Ulrich Ruede, Karen Willcox, Lois Curfman McInnes, Hans De Sterck, George Biros, Hans Bungartz, James Corones, Evin Cramer, James Crowley, Omar Ghattas, Max Gunzburger, Michael Hanke, Robert Harrison, Michael Heroux, Jan Hesthaven, Peter Jimack, Chris Johnson, Kirk E. Jordan, David E. Keyes, Rolf Krause, Vipin Kumar, Stefan Mayer, Juan Meza, Knut Martin Morken, J. Tinsley Oden, Linda Petzold, Padma Raghavan, Suzanne M. Shontz, Anne Trefethen, Peter Turner, Vladimir Voevodin, Barbara Wohlmuth, and Carol S. Woodward.
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
 
