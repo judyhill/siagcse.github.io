@@ -1,8 +1,6 @@
 ## SIAG on Computational Science and Engineering
 
-You can use the [editor on GitHub](https://github.com/SIAGCSE/siagcse.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The SIAM Activity Group on Computational Science and Engineering (SIAG/CSE) fosters collaboration and interaction among applied mathematicians, computer scientists, domain scientists and engineers in those areas of research related to the theory, development, and use of computational technologies for the solution of important problems in science and engineering. The activity group promotes computational science and engineering as an academic discipline and promotes simulation as a mode of scientific discovery on the same level as theory and experiment.
 
 ### Markdown
 
