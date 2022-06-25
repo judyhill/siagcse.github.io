@@ -4,5 +4,8 @@ The SIAM Activity Group on Computational Science and Engineering (SIAG/CSE) fost
 
 ### 2018 Report: Research and Education in Computational Science and Engineering (SIAM Review 60(3), 707–754, 2018; [download PDF](/assets/2018_Report.pdf)
 
+<<<<<<< HEAD
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+=======
+>>>>>>> eec73542ad8f958b83a8b6c9fd5967ad17a06775
 
