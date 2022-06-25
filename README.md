@@ -22,3 +22,8 @@ This report presents challenges, opportunities, and directions for computational
 * Vice Chair: [Jeff Hammond](https://github.com/jeffhammond)
 * Program Director: [Judy Hill](https://people.llnl.gov/hill134)
 * Secretary: [Tan Bui-Thanh](https://users.oden.utexas.edu/~tanbui/)
+
+#### External Links
+
+* [CS&E Homepage](https://www.siam.org/membership/activity-groups/detail/computational-science-and-engineering)
+* [SIAM CS&E Books](http://www.siam.org/catalog/cs.php)
