@@ -27,3 +27,8 @@ This report presents challenges, opportunities, and directions for computational
 
 * [CS&E Homepage](https://www.siam.org/membership/activity-groups/detail/computational-science-and-engineering)
 * [SIAM CS&E Books](http://www.siam.org/catalog/cs.php)
+
+### Upcoming Events
+
+* [Meetings in cooperation with SIAM](https://siam.org/conferences/calendar/cooperating-conferences)
+*  SIAM CSE21 - Details TBD
