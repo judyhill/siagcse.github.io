@@ -48,4 +48,10 @@ This report presents challenges, opportunities, and directions for computational
 
 ### Upcoming Events
 
-* CSE21 Business Meeting:  [Notes, PDF](/assets/CSE21BusinessMeetingNotes.pdf)  [Notes, PDF](/assets/CSE21BusinessMeeting.pdf)
+* CSE21 Business Meeting:  [(Notes, PDF)](/assets/CSE21BusinessMeetingNotes.pdf)  [(Slides, PDF)](/assets/CSE21BusinessMeeting.pdf)
+* CSE19 Business Meeting:
+* CSE17 Business Meeting:
+* CSE15 Business Meeting:
+* CSE13 Business Meeting:
+* CSE11 Business Meeting:
+* CSE09 Business Meeting:
