@@ -42,3 +42,6 @@ This report presents challenges, opportunities, and directions for computational
 * [CSE09 Panel discussion on education](http://wiki.siam.org/siag-cse/index.php/CS%26E_Education_Panel%2C_March_4%2C_2009)
 * Presentations from SIAM-CSE:
   * CSE09: [Graduate Education in CS&E – Needs, Trends, Risks, and Chances](http://www.sfu.ca/~destep//education/cse/siamcse09.html) organized by Donald Estep and Hans-Joachim Bungartz 
+    * [CSE Graduate Programs in the US (pdf)](http://www.sfu.ca/~destep//education/cse/siam-estep-cse.pdf),  Donald Estep, Colorado State University 
+    * [Overview of Graduate CSE Education in Europe (ppt)](http://www.sfu.ca/~destep//education/cse/siam-edsberg.ppt),  Lennart Edsberg, Royal Institute of Technology, Sweden 
+    * 
