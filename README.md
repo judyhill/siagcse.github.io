@@ -57,6 +57,6 @@ This report presents challenges, opportunities, and directions for computational
 * CSE19 Business Meeting: [(Notes, PDF)](/assets/2019-Business-Meeting-SIAG-CSE.pdf)  [(Slides, PDF)](/assets/2019-Business-Meeting-SIAG-CSE-slides.pdf)
 * CSE17 Business Meeting:  [(Slides, PDF)](/assets/2017-Business-Meeting-SIAG-CSE.pdf)
 * CSE15 Business Meeting: [(Slides, PDF)](/assets/Cse_business_15.pdf)
-* CSE13 Business Meeting: [(Notes)](http://wiki.siam.org/siag-cse/index.php/CSE11_Business_Meeting)  [(Slides, PDF)](/assets/CSE11_business_slides.pdf),  [(Slides, PPT)](/assets/CSE21BusinessMeeting.ppt)
-* CSE11 Business Meeting: 
+* CSE13 Business Meeting: 
+* CSE11 Business Meeting: [(Notes)](http://wiki.siam.org/siag-cse/index.php/CSE11_Business_Meeting)  [(Slides, PDF)](/assets/CSE11_business_slides.pdf),  [(Slides, PPT)](/assets/CSE21BusinessMeeting.ppt)
 * CSE09 Business Meeting:
