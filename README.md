@@ -2,7 +2,7 @@
 
 
 
-<img src="/assets/siam-logo.jpg" width="200" height="200" />
+<img src="/assets/siam-logo.jpg" width="100" height="100" />
 
 
 The SIAM Activity Group on Computational Science and Engineering (SIAG/CSE) fosters collaboration and interaction among applied mathematicians, computer scientists, domain scientists and engineers in those areas of research related to the theory, development, and use of computational technologies for the solution of important problems in science and engineering. The activity group promotes computational science and engineering as an academic discipline and promotes simulation as a mode of scientific discovery on the same level as theory and experiment.
