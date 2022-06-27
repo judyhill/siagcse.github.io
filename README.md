@@ -44,4 +44,8 @@ This report presents challenges, opportunities, and directions for computational
   * CSE09: [Graduate Education in CS&E – Needs, Trends, Risks, and Chances](http://www.sfu.ca/~destep//education/cse/siamcse09.html) organized by Donald Estep and Hans-Joachim Bungartz 
     * [CSE Graduate Programs in the US (pdf)](http://www.sfu.ca/~destep//education/cse/siam-estep-cse.pdf),  Donald Estep, Colorado State University 
     * [Overview of Graduate CSE Education in Europe (ppt)](http://www.sfu.ca/~destep//education/cse/siam-edsberg.ppt),  Lennart Edsberg, Royal Institute of Technology, Sweden 
-    * 
+
+
+### Upcoming Events
+
+* CSE21 Business Meeting:  [Notes, PDF](/assets/CSE21BusinessMeetingNotes.pdf)  [Notes, PDF](/assets/CSE21BusinessMeeting.pdf)
