@@ -32,3 +32,13 @@ This report presents challenges, opportunities, and directions for computational
 
 * [Meetings in cooperation with SIAM](https://siam.org/conferences/calendar/cooperating-conferences)
 *  SIAM CSE21 - Details TBD
+
+### Past Events
+
+
+### Education in Computational Science and Engineering 
+
+* [List of CSE Programs](http://wiki.siam.org/siag-cse/index.php/List_of_CSE_Programs)
+* [CSE09 Panel discussion on education](http://wiki.siam.org/siag-cse/index.php/CS%26E_Education_Panel%2C_March_4%2C_2009)
+* Presentations from SIAM-CSE:
+  * CSE09: [Graduate Education in CS&E – Needs, Trends, Risks, and Chances](http://www.sfu.ca/~destep//education/cse/siamcse09.html) organized by Donald Estep and Hans-Joachim Bungartz 
