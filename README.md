@@ -1,4 +1,4 @@
-## SIAG on Computational Science and Engineering
+## **SIAG on Computational Science and Engineering**
 
 
 <p align="center">
