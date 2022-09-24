@@ -51,7 +51,7 @@ This report presents challenges, opportunities, and directions for computational
     * [Overview of Graduate CSE Education in Europe (ppt)](http://www.sfu.ca/~destep//education/cse/siam-edsberg.ppt),  Lennart Edsberg, Royal Institute of Technology, Sweden 
 
 
-### Upcoming Events
+### SIAG CSE Notes
 
 * CSE21 Business Meeting:  [(Notes, PDF)](/assets/CSE21BusinessMeetingNotes.pdf)  [(Slides, PDF)](/assets/CSE21BusinessMeeting.pdf)
 * CSE19 Business Meeting: [(Notes, PDF)](/assets/2019-Business-Meeting-SIAG-CSE.pdf)  [(Slides, PDF)](/assets/2019-Business-Meeting-SIAG-CSE-slides.pdf)
@@ -59,4 +59,4 @@ This report presents challenges, opportunities, and directions for computational
 * CSE15 Business Meeting: [(Slides, PDF)](/assets/Cse_business_15.pdf)
 * CSE13 Business Meeting: 
 * CSE11 Business Meeting: [(Notes)](http://wiki.siam.org/siag-cse/index.php/CSE11_Business_Meeting)  [(Slides, PDF)](/assets/CSE11_business_slides.pdf),  [(Slides, PPT)](/assets/CSE21BusinessMeeting.ppt)
-* CSE09 Business Meeting:
+* CSE09 Business Meeting: [(Notes)](http://wiki.siam.org/siag-cse/index.php/SIAG/CSE_Business_Meeting%2C_March_5%2C_2009)  
