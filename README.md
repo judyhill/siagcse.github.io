@@ -61,6 +61,7 @@ This report presents challenges, opportunities, and directions for computational
     * [Undergraduate Computational Science and Engineering Education](/assets/undergrad_CSE.pdf),  a SIAM report by Peter Turner, Mathematics and Computer Science, Clarkson University.
     * [SIAM CSE 2009 Forward-Looking Panel](/assets/julianne.pdf),   a report by Julianne Chung and Carol Woodward.
 
+* [List of contributed Success Stories.](http://wiki.siam.org/siag-cse/index.php/List_of_contributed_Success_Stories.)
 
 
 ### **SIAG CSE Notes**
