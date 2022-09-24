@@ -51,6 +51,8 @@ This report presents challenges, opportunities, and directions for computational
     * [Overview of Graduate CSE Education in Europe (ppt)](http://www.sfu.ca/~destep//education/cse/siam-edsberg.ppt),  Lennart Edsberg, Royal Institute of Technology, Sweden 
     * [Report on International Study of Simulation-based Engineering and Science, and Preparing the Next Generation in CSE (ppt)](http://www.stat.colostate.edu/~estep/education/cse/siam-sagui-glotzer.ppt),  Sharon C. Glotzer, University of Michigan; Celeste Sagui, North Carolina State University.
     * [CSE/CE Programs in Germany (ppt)](http://www.stat.colostate.edu/~estep/education/cse/miami-schaefer.ppt),  Michael Schäfer, TU Darmstadt, Germany.
+    * [Pros and Cons of CSE Programs Versus Disciplinary Programs, the “Different Ways” to Approach Training in CSE (ppt)](http://www.stat.colostate.edu/~estep/education/cse/SIAM-CSE09-Johnson.ppt),  Chris Johnson, University of Utah.
+    * [SIAM’s Role in Supporting and Developing CSE (pdf)](http://www.stat.colostate.edu/~estep/education/cse/SIAMCSE09PanelKeyes.pdf),  David Keyes, Columbia University and Brookhaven National Laboratory.
 
 
 ### SIAG CSE Notes
