@@ -52,7 +52,8 @@ This report presents challenges, opportunities, and directions for computational
 | CSE09         | March 2-6, 2009 | Miami, FL | [(Link)](http://www.siam.org/meetings/cse09)   |Kirk Jordan and Carol Woodward   | [(Slides and Notes)](http://wiki.siam.org/siag-cse/index.php/CSE09)              |   767     |
 | CSE07         | February 19-23, 2007 | Costa Mesa, CA | [(Link)](http://www.siam.org/meetings/cse07)   |Max Gunzburger, Bruce Hendrickson, Jill Mesirov, and Andy Wathen   | -              |   686      |
 | CSE05         | February 12-15, 2005 | Orlando, FL | [(Link)](http://www.siam.org/meetings/CSE05)   |Lori Freitag Diachin, Eric de Sturler, and John Shadid   | -              |  587     |
-
+| CSE03         | February 10-13, 2003 | San Diego, CA | [(Link)](http://www.siam.org/meetings/cse03/)   |Steven Ashby, Omar Ghattas, David Keyes, and Linda Petzold   | -              |  541     |
+| CSE00         | September 21-24, 2000 | Washington, DC | [(Link)](http://www.siam.org/meetings/cse00/)   |Steven F. Ashby, Linda R. Petzold, and Gilbert Strang   | -              |  444     |
 
 
 
