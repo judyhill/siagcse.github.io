@@ -19,7 +19,7 @@ This report presents challenges, opportunities, and directions for computational
 
 [Read more](https://epubs.siam.org/doi/abs/10.1137/16M1096840)
 
-### About
+### **About**
 
 #### Officers (1/1/2021 - 31/12/2022)
 
@@ -33,15 +33,15 @@ This report presents challenges, opportunities, and directions for computational
 * [CS&E Homepage](https://www.siam.org/membership/activity-groups/detail/computational-science-and-engineering)
 * [SIAM CS&E Books](http://www.siam.org/catalog/cs.php)
 
-### Upcoming Events
+### **Upcoming Events**
 
 * [Meetings in cooperation with SIAM](https://siam.org/conferences/calendar/cooperating-conferences)
 *  SIAM CSE21 - Details TBD
 
-### Past Events
+### **Past Events**
 
 
-### Education in Computational Science and Engineering 
+### **Education in Computational Science and Engineering** 
 
 * [List of CSE Programs](http://wiki.siam.org/siag-cse/index.php/List_of_CSE_Programs)
 * [CSE09 Panel discussion on education](http://wiki.siam.org/siag-cse/index.php/CS%26E_Education_Panel%2C_March_4%2C_2009)
@@ -61,7 +61,7 @@ This report presents challenges, opportunities, and directions for computational
 
 
 
-### SIAG CSE Notes
+### **SIAG CSE Notes**
 
 * CSE21 Business Meeting:  [(Notes, PDF)](/assets/CSE21BusinessMeetingNotes.pdf)  [(Slides, PDF)](/assets/CSE21BusinessMeeting.pdf)
 * CSE19 Business Meeting: [(Notes, PDF)](/assets/2019-Business-Meeting-SIAG-CSE.pdf)  [(Slides, PDF)](/assets/2019-Business-Meeting-SIAG-CSE-slides.pdf)
