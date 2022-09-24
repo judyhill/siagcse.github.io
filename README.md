@@ -7,7 +7,7 @@
 
 The SIAM Activity Group on Computational Science and Engineering (SIAG/CSE) fosters collaboration and interaction among applied mathematicians, computer scientists, domain scientists and engineers in those areas of research related to the theory, development, and use of computational technologies for the solution of important problems in science and engineering. The activity group promotes computational science and engineering as an academic discipline and promotes simulation as a mode of scientific discovery on the same level as theory and experiment.
 
-### 2018 Report: Research and Education in Computational Science and Engineering (SIAM Review 60(3), 707–754, 2018; [download PDF](/assets/2018_Report.pdf)
+### **2018 Report: Research and Education in Computational Science and Engineering (SIAM Review 60(3), 707–754, 2018;** [download PDF](/assets/2018_Report.pdf)
 
 #### Authors: 
 
@@ -53,6 +53,12 @@ This report presents challenges, opportunities, and directions for computational
     * [CSE/CE Programs in Germany (ppt)](http://www.stat.colostate.edu/~estep/education/cse/miami-schaefer.ppt),  Michael Schäfer, TU Darmstadt, Germany.
     * [Pros and Cons of CSE Programs Versus Disciplinary Programs, the “Different Ways” to Approach Training in CSE (ppt)](http://www.stat.colostate.edu/~estep/education/cse/SIAM-CSE09-Johnson.ppt),  Chris Johnson, University of Utah.
     * [SIAM’s Role in Supporting and Developing CSE (pdf)](http://www.stat.colostate.edu/~estep/education/cse/SIAMCSE09PanelKeyes.pdf),  David Keyes, Columbia University and Brookhaven National Laboratory.
+    * [Education Issues in CSE: Student Backgrounds, Instruction Modes, Outcomes (pdf)](http://www.stat.colostate.edu/~estep/education/cse/slides-cse09-behr.pdf),  Marek Behr, RWTH Aachen University, Germany.
+    * [Ingredients of a CSE Education Program (pdf)](http://www.stat.colostate.edu/~estep/education/cse/gunzburger-cse09.pdf),  Max Gunzburger, Florida State University.
+
+* Reports and Articles through SIAM:
+    * [Ingredients of a CSE Education Program (pdf)](http://www.stat.colostate.edu/~estep/education/cse/gunzburger-cse09.pdf),  Max Gunzburger, Florida State University.
+
 
 
 ### SIAG CSE Notes
