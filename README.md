@@ -40,10 +40,10 @@ This report presents challenges, opportunities, and directions for computational
 
 ### **Past Events**
 
-| Item         | Price     | # In stock |
-|--------------|-----------|------------|
-| Juicy Apples | 1.99      | *7*        |
-| Bananas      | **1.89**  | 5234       |
+| Event         | Date     |  Location | Website | Chair(s) | Additional content | Attendence |
+|---------------|----------|-----------|---------|----------|--------------------|------------|
+| Juicy Apples  | 1.99     | *7*       | Juicy   | 1.99     | *7*                |   i        |
+
 
 ### **Education in Computational Science and Engineering** 
 
