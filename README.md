@@ -43,8 +43,8 @@ This report presents challenges, opportunities, and directions for computational
 | Event         | Date                 |  Location   | Website | Chair(s) | Additional content | Attendence |
 |---------------|----------------------|-------------|---------|----------|--------------------|------------|
 | CSE19         | Feb 25 - Mar 1, 2019 | Spokane, WA | [(Link)](https://www.siam.org/Conferences/CM/Conference/cse19)   |Jeffrey Hittinger, Luke Olson, and Suzanne Shontz     | -              |   -       |
-| CSE17         | Feb 27 - Mar 3, 2017 | Feb 27 - Mar 3, 2017 | [(Link)](https://archive.siam.org/meetings/cse17/)   |Clint N. Dawson, Jan S. Hesthaven, Xiaoye Sherry Li, and Wil H.A. Schilders    | -              |   -       |
-| CSE17         | Feb 27 - Mar 3, 2017 | Feb 27 - Mar 3, 2017 | [2](https://archive.siam.org/meetings/cse17/)   |Clint N. Dawson, Jan S. Hesthaven, Xiaoye Sherry Li, and Wil H.A. Schilders    | -              |   -       |
+| CSE17         | Feb 27 - Mar 3, 2017 | Atlanta, GA | [(Link)](https://archive.siam.org/meetings/cse17/)   |Clint N. Dawson, Jan S. Hesthaven, Xiaoye Sherry Li, and Wil H.A. Schilders    | -              |   -       |
+| CSE15         | March 14-18, 2015 | Salt Lake City, UT | [(Link)](http://www.siam.org/meetings/cse15)   |Hans De Sterck, Chris Johnson, and Lois Curfman McInnes   | -              |   1687       |
 
 
 
