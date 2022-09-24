@@ -25,8 +25,8 @@ This report presents challenges, opportunities, and directions for computational
 
 * Chair: [Stefan Wild](https://wildsm.github.io/) [(Email)](mailto:wild@anl.gov)
 * Vice Chair: [Jeff Hammond](https://github.com/jeffhammond) [(Email)](mailto:jeff.science@gmail.com)
-* Program Director: [Judy Hill](https://people.llnl.gov/hill134)[(Email)](mailto:judy@llnl.gov)
-* Secretary: [Tan Bui-Thanh](https://users.oden.utexas.edu/~tanbui/)[(Email)](mailto:tanbui@oden.utexas.edu)
+* Program Director: [Judy Hill](https://people.llnl.gov/hill134) [(Email)](mailto:judy@llnl.gov)
+* Secretary: [Tan Bui-Thanh](https://users.oden.utexas.edu/~tanbui/) [(Email)](mailto:tanbui@oden.utexas.edu)
 
 #### External Links
 
@@ -42,8 +42,8 @@ This report presents challenges, opportunities, and directions for computational
 
 | Event         | Date                 |  Location   | Website | Chair(s) | Additional content | Attendence |
 |---------------|----------------------|-------------|---------|----------|--------------------|------------|
-| CSE19         | Feb 25 - Mar 1, 2019 | Spokane, WA | [1](https://www.siam.org/Conferences/CM/Conference/cse19)   |Jeffrey Hittinger, Luke Olson, and Suzanne Shontz     | -              |   -       |
-| CSE17         | Feb 27 - Mar 3, 2017 | Feb 27 - Mar 3, 2017 | [2](https://archive.siam.org/meetings/cse17/)   |Clint N. Dawson, Jan S. Hesthaven, Xiaoye Sherry Li, and Wil H.A. Schilders    | -              |   -       |
+| CSE19         | Feb 25 - Mar 1, 2019 | Spokane, WA | [(Link)](https://www.siam.org/Conferences/CM/Conference/cse19)   |Jeffrey Hittinger, Luke Olson, and Suzanne Shontz     | -              |   -       |
+| CSE17         | Feb 27 - Mar 3, 2017 | Feb 27 - Mar 3, 2017 | [(Link)](https://archive.siam.org/meetings/cse17/)   |Clint N. Dawson, Jan S. Hesthaven, Xiaoye Sherry Li, and Wil H.A. Schilders    | -              |   -       |
 | CSE17         | Feb 27 - Mar 3, 2017 | Feb 27 - Mar 3, 2017 | [2](https://archive.siam.org/meetings/cse17/)   |Clint N. Dawson, Jan S. Hesthaven, Xiaoye Sherry Li, and Wil H.A. Schilders    | -              |   -       |
 
 
