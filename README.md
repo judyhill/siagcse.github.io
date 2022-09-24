@@ -42,7 +42,9 @@ This report presents challenges, opportunities, and directions for computational
 
 | Event         | Date                 |  Location   | Website | Chair(s) | Additional content | Attendence |
 |---------------|----------------------|-------------|---------|----------|--------------------|------------|
-| CSE19         | Feb 25 - Mar 1, 2019 | Spokane, WA | [1](https://www.siam.org/Conferences/CM/Conference/cse19)   |Jeffrey Hittinger, Luke Olson, and Suzanne Shontz     | -              |   i        |
+| CSE19         | Feb 25 - Mar 1, 2019 | Spokane, WA | [1](https://www.siam.org/Conferences/CM/Conference/cse19)   |Jeffrey Hittinger, Luke Olson, and Suzanne Shontz     | -              |   -       |
+| CSE19         | Feb 25 - Mar 1, 2019 | Spokane, WA | [1](https://www.siam.org/Conferences/CM/Conference/cse19)   |Jeffrey Hittinger, Luke Olson, and Suzanne Shontz     | -              |   -       |
+
 
 
 ### **Education in Computational Science and Engineering** 
