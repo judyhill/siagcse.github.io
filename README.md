@@ -40,6 +40,8 @@ This report presents challenges, opportunities, and directions for computational
 
 ### **Past Events**
 
+#### SIAM Conference on Computational Science and Engineering
+
 | Event         | Date                 |  Location   | Website | Chair(s) | Additional content | Attendence |
 |---------------|----------------------|-------------|---------|----------|--------------------|------------|
 | CSE19         | Feb 25 - Mar 1, 2019 | Spokane, WA | [(Link)](https://www.siam.org/Conferences/CM/Conference/cse19)   |Jeffrey Hittinger, Luke Olson, and Suzanne Shontz     | -              |   -       |
