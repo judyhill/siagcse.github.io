@@ -23,7 +23,7 @@ This report presents challenges, opportunities, and directions for computational
 
 #### Officers (1/1/2021 - 31/12/2022)
 
-* Chair: [Stefan Wild](https://wildsm.github.io/)
+* Chair: [Stefan Wild](https://wildsm.github.io/) [Email](mailto:wild@anl.gov)
 * Vice Chair: [Jeff Hammond](https://github.com/jeffhammond)
 * Program Director: [Judy Hill](https://people.llnl.gov/hill134)
 * Secretary: [Tan Bui-Thanh](https://users.oden.utexas.edu/~tanbui/)
