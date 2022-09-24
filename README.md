@@ -59,6 +59,7 @@ This report presents challenges, opportunities, and directions for computational
 * Reports and Articles through SIAM:
     * [Graduate Education for Computational Science and Engineering](http://www.siam.org/students/resources/report.php),  a SIAM report by Linda Petzold, Uri Ascher, H. Thomas Banks, James Crowley, Walter Gander, Leslie Greengard, Michael Heath, Andrew Lumsdaine, Cleve Moler, Tinsley Oden, Robert Schnabel, Kris Stewart, and Anne Trefethen.
     * [Undergraduate Computational Science and Engineering Education](/assets/undergrad_CSE.pdf),  a SIAM report by Peter Turner, Mathematics and Computer Science, Clarkson University.
+    * [SIAM CSE 2009 Forward-Looking Panel](/assets/julianne.pdf),   a report by Julianne Chung and Carol Woodward.
 
 
 
