@@ -40,9 +40,9 @@ This report presents challenges, opportunities, and directions for computational
 
 ### **Past Events**
 
-| Event         | Date     |  Location | Website | Chair(s) | Additional content | Attendence |
-|---------------|----------|-----------|---------|----------|--------------------|------------|
-| Juicy Apples  | 1.99     | *7*       | Juicy   | 1.99     | *7*                |   i        |
+| Event         | Date                 |  Location   | Website | Chair(s) | Additional content | Attendence |
+|---------------|----------------------|-------------|---------|----------|--------------------|------------|
+| CSE19         | Feb 25 - Mar 1, 2019 | Spokane, WA | [1](https://www.siam.org/Conferences/CM/Conference/cse19)   |Jeffrey Hittinger, Luke Olson, and Suzanne Shontz     | -              |   i        |
 
 
 ### **Education in Computational Science and Engineering** 
