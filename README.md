@@ -48,6 +48,8 @@ This report presents challenges, opportunities, and directions for computational
 | CSE13         | February 25 - March 1, 2013 | Boston, MA | [(Link)](http://www.siam.org/meetings/cse13)   |Karen Willcox and Hans Petter Langtangen   | -              |   1352      |
 | CSE11         | February 28 - March 4, 2011 | Reno, NV | [(Link)](http://www.siam.org/meetings/cse11)   |Ulrich Rüde and Padma Raghavan   | [(Slides and Notes)](http://wiki.siam.org/siag-cse/index.php/CSE11)              |   843     |
 | CSE09         | March 2-6, 2009 | Miami, FL | [(Link)](http://www.siam.org/meetings/cse09)   |Kirk Jordan and Carol Woodward   | [(Slides and Notes)](http://wiki.siam.org/siag-cse/index.php/CSE09)              |   767     |
+| CSE07         | February 19-23, 2007 | Costa Mesa, CA | [(Link)](http://www.siam.org/meetings/cse07)   |Max Gunzburger, Bruce Hendrickson, Jill Mesirov, and Andy Wathen   | -              |   686      |
+| CSE05         | February 12-15, 2005 | Orlando, FL | [(Link)](http://www.siam.org/meetings/CSE05)   |Lori Freitag Diachin, Eric de Sturler, and John Shadid   | -              |  587     |
 
 
 
