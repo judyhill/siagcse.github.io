@@ -21,12 +21,12 @@ This report presents challenges, opportunities, and directions for computational
 
 ### **About**
 
-#### Officers (1/1/2021 - 31/12/2022)
+#### Officers (1/1/2023 - 31/12/2024)
 
-* Chair: [Stefan Wild](https://wildsm.github.io/) [(Email)](mailto:wild@anl.gov)
-* Vice Chair: [Jeff Hammond](https://github.com/jeffhammond) [(Email)](mailto:jeff.science@gmail.com)
-* Program Director: [Judy Hill](https://people.llnl.gov/hill134) [(Email)](mailto:judy@llnl.gov)
-* Secretary: [Tan Bui-Thanh](https://users.oden.utexas.edu/~tanbui/) [(Email)](mailto:tanbui@oden.utexas.edu)
+* Chair: [Judy Hill](https://people.llnl.gov/hill134) [(Email)](mailto:judy@llnl.gov)
+* Vice Chair: [Philipp Birken](https://www.maths.lu.se/staff/philipp-birken/) [(Email)](mailto:Philipp.birken@na.lu.se)
+* Program Director: [Edmund Chow](https://faculty.cc.gatech.edu/~echow/) [(Email)](mailto:echow@cc.gatech.edu)
+* Secretary: [Sara Pollock](https://people.clas.ufl.edu/spollock/) [(Email)](mailto:s.pollock@ufl.edu)
 
 #### External Links
 
@@ -37,7 +37,7 @@ This report presents challenges, opportunities, and directions for computational
 ### **Upcoming Events**
 
 * [Meetings in cooperation with SIAM](https://siam.org/conferences/calendar/cooperating-conferences)
-*  SIAM CSE23 - Details TBD
+*  SIAM CSE25 - March 2-7, 2025, Fort Worth Convention Center, Fort Worth, TX
 
 ### **Past Events**
 
@@ -45,7 +45,8 @@ This report presents challenges, opportunities, and directions for computational
 
 | Event         | Date                 |  Location   | Website | Chair(s) | Additional content | Attendence |
 |---------------|----------------------|-------------|---------|----------|--------------------|------------|
-| CSE21         | March 1-5, 2021 | 0nline | [(Link)](https://www.siam.org/Conferences/CM/Conference/cse21/)   |Laura Grigori, Misha E. Kilmer, and Stefan M. Wild    | -              |      -    |
+| CSE23         | Feb 26 - Mar 3, 2023 | Amsterdam, Netherlands | [(Link)](https://www.siam.org/Conferences/CM/Conference/cse23/)   |Karen Devine, Dirk Hartmann, and Wil Schilders    | -              |      -    |
+| CSE21         | March 1-5, 2021 | 0nline | [(Link)](https://www.siam.org/Conferences/CM/Conference/cse21/)   |Laura Grigori, Misha E. Kilmer, and Stefan M. Wild    | -              |      2542    |
 | CSE19         | Feb 25 - Mar 1, 2019 | Spokane, WA | [(Link)](https://www.siam.org/Conferences/CM/Conference/cse19)   |Jeffrey Hittinger, Luke Olson, and Suzanne Shontz     | -              |   1895      |
 | CSE17         | Feb 27 - Mar 3, 2017 | Atlanta, GA | [(Link)](https://archive.siam.org/meetings/cse17/)   |Clint N. Dawson, Jan S. Hesthaven, Xiaoye Sherry Li, and Wil H.A. Schilders    | -              |      1724    |
 | CSE15         | March 14-18, 2015 | Salt Lake City, UT | [(Link)](http://www.siam.org/meetings/cse15)   |Hans De Sterck, Chris Johnson, and Lois Curfman McInnes   | -              |   1687       |
@@ -84,6 +85,7 @@ This report presents challenges, opportunities, and directions for computational
 
 ### **SIAG CSE Notes**
 
+* CSE23 Business Meeting:  [(Notes, PDF)](/assets/CSE23SIAGBusinessMeetingMinutes.pdf)  [(Slides, PDF)](/assets/2023BusinessMeetingCSE.pdf)
 * CSE21 Business Meeting:  [(Notes, PDF)](/assets/CSE21BusinessMeetingNotes.pdf)  [(Slides, PDF)](/assets/CSE21BusinessMeeting.pdf)
 * CSE19 Business Meeting: [(Notes, PDF)](/assets/2019-Business-Meeting-SIAG-CSE.pdf)  [(Slides, PDF)](/assets/2019-Business-Meeting-SIAG-CSE-slides.pdf)
 * CSE17 Business Meeting:  [(Slides, PDF)](/assets/2017-Business-Meeting-SIAG-CSE.pdf)
